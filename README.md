@@ -3,7 +3,7 @@ A manager that can randomly generate a menu or craft your own menu based on the 
 
 ### Get started
 1. Run MenuManagerGUI.java  
-    (make sure you also download folder ```data ``` which contains:  
+    (download folder ```data ``` which contains:  
     ```dishes.txt``` to read into the program    
     ```menus.txt``` you might need to write menus in) 
 2. A GUI will pop up where you can create menus in it.
