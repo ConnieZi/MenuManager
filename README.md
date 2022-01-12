@@ -17,3 +17,5 @@ A manager that can randomly generate a menu or craft your own menu based on the 
 <img width="593" alt="Screen Shot 2021-10-31 at 10 54 43 PM" src="https://user-images.githubusercontent.com/55789923/139615341-7ffe124b-f379-4f34-8efa-2977666a9cc2.png">
 <img width="1190" alt="Screen Shot 2021-10-31 at 11 04 26 PM" src="https://user-images.githubusercontent.com/55789923/139616155-ddc6e655-9b5a-46f2-a015-31638557b361.png">
 
+**This program is adapted from the project of CMPINF0401 in University of Pittsburgh**
+
